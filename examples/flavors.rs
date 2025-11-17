@@ -61,7 +61,7 @@ fn main() {
         read.release(6);
     }
 
-    println!("\n✓ All flavors work great!");
+    println!("\nAll flavors work great!");
     println!("\nAvailable flavors:");
     println!("  - Jerk (Jamaica), Asado (Argentina), Memphis (USA), Carolina (USA)");
     println!("  - Churrasco (Brazil), Barbacoa (Mexico), Texas (USA), KansasCity (USA)");

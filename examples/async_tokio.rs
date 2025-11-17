@@ -58,5 +58,5 @@ async fn main() {
     // Wait for both tasks to complete
     let _ = tokio::join!(consumer_task, producer_task);
 
-    println!("\n✓ Example completed successfully!");
+    println!("\nExample completed successfully!");
 }

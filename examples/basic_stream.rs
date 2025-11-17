@@ -45,5 +45,5 @@ fn main() {
     println!("Read {} bytes: {:?}", read.len(), &*read);
     read.release(read.len());
 
-    println!("\n✓ Example completed successfully!");
+    println!("\nExample completed successfully!");
 }

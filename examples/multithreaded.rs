@@ -61,5 +61,5 @@ fn main() {
     producer_thread.join().unwrap();
     consumer_thread.join().unwrap();
 
-    println!("\n✓ Example completed successfully!");
+    println!("\nExample completed successfully!");
 }

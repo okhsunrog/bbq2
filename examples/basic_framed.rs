@@ -53,5 +53,5 @@ fn main() {
 
     // Queue should now be empty
     assert!(cons.read().is_err());
-    println!("\n✓ Example completed successfully!");
+    println!("\nExample completed successfully!");
 }

@@ -41,5 +41,5 @@ fn main() {
     let len = read.len();
     read.release(len);
 
-    println!("\n✓ Example completed successfully!");
+    println!("\nExample completed successfully!");
 }

@@ -4,7 +4,7 @@
 [![Documentation](https://docs.rs/bbq2/badge.svg)](https://docs.rs/bbq2)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE)
 
-A lock-free, thread-safe, single-producer single-consumer (SPSC) queue for Rust, based on the BipBuffer algorithm. Now with **sixteen great flavors!** 🍖
+A lock-free, thread-safe, single-producer single-consumer (SPSC) queue for Rust, based on the BipBuffer algorithm. Now with **sixteen great flavors!**
 
 This is a reimplementation of [bbqueue](https://github.com/jamesmunns/bbqueue) with improved features and flexibility.
 
